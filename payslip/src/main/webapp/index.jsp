@@ -11,7 +11,7 @@ table td {text-align: left;}
 </style>
 </head>
 <body>
-<h2 align="center">PAY SLIP OCTOBER 2016</h2>
+<h2 align="center">PAY SLIP OCTOBER 2017</h2>
 
 <table border="1" style="width:400" align="center">
   <tr>
